@@ -1,0 +1,1 @@
+# ADXL345-s-accelerometer-with-motor
